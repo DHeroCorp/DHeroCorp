@@ -1,11 +1,6 @@
 <!-- Banner de Boas-Vindas -->
-<h1 align="center">Olá, eu sou [Seu Nome] 👋</h1>
-<h3 align="center">Desenvolvedor(a) Web | Entusiasta de Tecnologia | [Outra Profissão ou Interesse]</h3>
-
-<!-- Imagem de Destaque -->
-<p align="center">
-  <img src="https://github.com/[DHeroCorp]/[DHeroCorp]/blob/main/banner.png" alt="Banner" width="600">
-</p>
+<h1 align="center">Olá, somos a DHeroCorp 👋</h1>
+<h3 align="center">Designers Digitais e Gráficos | Desenvolvedores de Softwares | Editores de Fotos</h3>
 
 <!-- Seções do Perfil -->
 
@@ -21,33 +16,30 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-## 🚀 Sobre Mim
+## 🚀 Sobre Nós
 
-Sou [Sua Profissão ou Título], apaixonado(a) por [Sua Paixão ou Interesse Principal]. Tenho experiência em [Suas Principais Competências] e atualmente estou focado(a) em [Projetos ou Aprendizado Atual].
-
-- 🔭 Atualmente trabalhando em [Projeto Atual]
-- 🌱 Aprendendo [Tecnologia ou Habilidade que Está Aprendendo]
-- 💬 Pergunte-me sobre [Assuntos que Você Pode Ajudar]
-- 📫 Como me encontrar: [Seu Email ou Outra Forma de Contato]
-- ⚡ Curiosidade: [Algo Interessante Sobre Você]
+- 🔭 Atualmente trabalhando em [DHeroCorp](https://dherocorp.com/)
+- 🌱 Aprendendo React | TypeScript | Next.js
+- 📫 Como me encontrar: [E-mail](mailto:contato@dherocorp.com) ou [Telefone](https://wa.me//54981172243)
+- ⚡ Curiosidade: Sempre em busca por conhecimento e desenvolvimento
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=[DHeroCorp]&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DHeroCorp&show_icons=true&theme=dracula)
 
 ## 🛠️ Projetos em Destaque
 
 
-- [Projeto 1](https://github.com/[SeuUsuário]/[Projeto1]) - Descrição breve do projeto.
-- [Projeto 2](https://github.com/[SeuUsuário]/[Projeto2]) - Descrição breve do projeto.
+- [DHeroCorp](https://dherocorp.com/) - Site da Empresa
+- [CenterCafé](https://discord.gg/TTAaaU7hwr) - Servidor do Discord
 
 ## 📫 Contato
 
 <div align="center">
-  <a href="mailto:seuemail@example.com">
+  <a href="mailto:contato@dherocorp.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://instagram.com/seu-instagram">
+  <a href="https://www.instagram.com/dherocorp_of/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </div>
